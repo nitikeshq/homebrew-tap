@@ -3,7 +3,7 @@ class Adrenai < Formula
   homepage "https://nitikeshq.github.io/adrenai/"
   url "https://github.com/nitikeshq/adrenai/releases/download/v1.0.1/adrenai-1.0.1.tgz"
   version "1.0.1"
-  sha256 "86643a9083f25088a5641e2cdcaab59989665499a0ea4dcf4e22d2fe0ff91d4a"
+  sha256 "cf8614cd8c87e6ff58eb17b265e823c5a097a36cea64103d0d19765d0af4bcf9"
   license "Apache-2.0"
 
   depends_on "node@22"
